@@ -1,7 +1,5 @@
 package com.pjwstk.adudek;
 
-import jdk.jfr.Category;
-
 public class Movie {
 
     private Long id;
